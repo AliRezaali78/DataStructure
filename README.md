@@ -12,5 +12,6 @@ __Do not use it for production, it's just a sample !__
   * Binary Tree
   * AVLTree
   * Heap
+  * PriorityQueue With Heap
   * Trie
   * Graph
