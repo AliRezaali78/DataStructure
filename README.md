@@ -1,5 +1,5 @@
 # Data Structure Sample
-__Do not use it for production, it's just a sample !__ 
+__Do not use it for production, it's just a sample !__ <br />
 __Tests are incomplete__
 
 * Linear
