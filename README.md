@@ -1,2 +1,2 @@
-# DataStructure Sample
-## It's not for production and it's just an sample
+# Data Structure Sample
+__Do not use it for production, it's just a sample !__ 
