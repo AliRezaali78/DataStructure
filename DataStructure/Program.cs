@@ -11,32 +11,6 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
-            var weightedGraph = new WeightedGraph();
-            
-            weightedGraph.AddNode("A");
-            weightedGraph.AddNode("B");
-            weightedGraph.AddNode("C");
-            weightedGraph.AddNode("D");
-            
-            // weightedGraph.AddEdge("A","B",3);
-            // weightedGraph.AddEdge("A","D",2);
-            // weightedGraph.AddEdge("A","C",4);
-            //
-            // weightedGraph.AddEdge("B","E",1);
-            // weightedGraph.AddEdge("B","D",6);
-            //
-            // weightedGraph.AddEdge("D","E",5);
-            //
-            // weightedGraph.AddEdge("D","C",1);
-
-            weightedGraph.AddEdge("A","B",3);
-            weightedGraph.AddEdge("A","C",1);
-            weightedGraph.AddEdge("C","B",2);
-            weightedGraph.AddEdge("C","D",5);
-            weightedGraph.AddEdge("B","D",4);
-
-            var spanningTree = weightedGraph.MinimumSpanning();
-            spanningTree.Print();
         }
 
         private static int Fact(int number)
