@@ -16,7 +16,7 @@ __Tests are incomplete__
   * PriorityQueue With Heap
   * Trie
   * Graph
- * Sorting Algorithms
+* Sorting Algorithms
   * Bubble Sort
   * Selection Sort
   * Insertion Sort
