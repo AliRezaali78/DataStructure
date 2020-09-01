@@ -1,5 +1,6 @@
 ﻿using DataStructure.Data_Structure_1;
 using DataStructure.Data_Structure_2;
+using DataStructure.Data_Structure_3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,9 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
+            List<int> list = new List<int>(){3,5,6,9,11,18,20,21,24,30,31};
+            var index = list.ExponentialSearch(17);
+            Console.WriteLine(index);
         }
 
         private static int Fact(int number)
