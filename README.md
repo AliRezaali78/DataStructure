@@ -23,4 +23,10 @@ __Tests are incomplete__
   * Merge Sort
   * Quick Sort
   * Counting Sort
+* Searching Algorithms
+  * Linear Search
+  * Binary Search
+  * Jump Search
+  * Exponential Search
+  
 
