@@ -28,5 +28,15 @@ __Tests are incomplete__
   * Binary Search
   * Jump Search
   * Exponential Search
+* String Manipulation
+  * Count Vowels
+  * Reverse String
+  * Reverse Words
+  * Is Rotation Of
+  * Remove Duplication
+  * Most Repeated Char
+  * Capitalize
+  * IsAnagram
+  * IsPalindrome
   
 
